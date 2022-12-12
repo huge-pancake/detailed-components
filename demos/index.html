@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" data-md-theme="system">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="../demos/theme.css" />
+    <link rel="stylesheet" href="../src/m3/styles/index.css" />
+    <script type="module" src="../src/m3/button/common-button.ts"></script>
+  </head>
+  <body>
+    <md-button>Text Button</md-button>
+    <md-button color="secondary">Text Button</md-button>
+    <md-button color="tertiary">Text Button</md-button>
+    <md-button disabled>Text Button</md-button>
+    <br />
+    <md-button variant="outlined">Outlined Button</md-button>
+    <md-button variant="outlined" color="secondary">Outlined Button</md-button>
+    <md-button variant="outlined" color="tertiary">Outlined Button</md-button>
+    <md-button variant="outlined" disabled>Outlined Button</md-button>
+    <br />
+    <md-button variant="filled">Filled Button</md-button>
+    <md-button variant="filled" color="secondary">Filled Button</md-button>
+    <md-button variant="filled" color="tertiary">Filled Button</md-button>
+    <md-button variant="filled" disabled>Filled Button</md-button>
+    <br />
+    <md-button variant="filled tonal">Filled Tonal Button</md-button>
+    <md-button variant="filled tonal" disabled>Filled Tonal Button</md-button>
+    <br />
+    <md-button variant="elevated">Elevated Button</md-button>
+    <md-button variant="elevated" disabled>Elevated Button</md-button>
+    <br />
+
+    <md-button custom="a href='#'">Link</md-button>
+
+    <div
+      style="
+        cursor: pointer;
+        border: 1px solid var(--md-sys-color-outline);
+        border-radius: var(--md-sys-shape-corner-large);
+        height: 500px;
+        width: 500px;
+      "
+      tabindex="0"
+      aria-label="A box with ripple"
+    >
+      <md-ripple></md-ripple>
+    </div>
+
+    <script>
+      const btn = document.querySelector('md-button');
+      let i = 0;
+      btn.addEventListener('click', (e) => {
+        console.log(e.currentTarget, e.target);
+        i++;
+        btn.innerHTML = `Clicked ${i} Times`;
+      });
+    </script>
+  </body>
+</html>

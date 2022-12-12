@@ -1,0 +1,23 @@
+{
+  "name": "detailed-components",
+  "version": "0.1.0-alpha",
+  "description": "Detailed components.",
+  "author": "huge-pancake",
+  "license": "MIT",
+  "main": "",
+  "scripts": {
+    "dev": "wds --config 'demos/web-dev-server.config.mjs'",
+    "build": "tsc --pretty",
+    "build:watch": "tsc --pretty --watch",
+    "clean": "rm -f src/**/*.js src/**/*.js.map src/**/*.d.t src/**/**/*.js src/**/**/*.js.map src/**/**/*.d.ts"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35",
+    "@web/dev-server-esbuild": "^0.3.3",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "tslib": "^2.4.1"
+  }
+}

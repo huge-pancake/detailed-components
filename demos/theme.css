@@ -1,0 +1,94 @@
+[data-md-theme] {
+  --md-sys-color-primary-rgb-dark:156,214,125; --md-sys-color-primary-dark:#9cd67d; --md-sys-color-on-primary-rgb-dark:17,56,0; --md-sys-color-on-primary-dark:#113800; --md-sys-color-primary-container-rgb-dark:31,81,6; --md-sys-color-primary-container-dark:#1f5106; --md-sys-color-on-primary-container-rgb-dark:183,243,150; --md-sys-color-on-primary-container-dark:#b7f396; --md-sys-color-secondary-rgb-dark:189,203,176; --md-sys-color-secondary-dark:#bdcbb0; --md-sys-color-on-secondary-rgb-dark:40,52,32; --md-sys-color-on-secondary-dark:#283420; --md-sys-color-secondary-container-rgb-dark:62,74,54; --md-sys-color-secondary-container-dark:#3e4a36; --md-sys-color-on-secondary-container-rgb-dark:216,231,203; --md-sys-color-on-secondary-container-dark:#d8e7cb; --md-sys-color-tertiary-rgb-dark:160,207,208; --md-sys-color-tertiary-dark:#a0cfd0; --md-sys-color-on-tertiary-rgb-dark:0,55,56; --md-sys-color-on-tertiary-dark:#003738; --md-sys-color-tertiary-container-rgb-dark:30,78,79; --md-sys-color-tertiary-container-dark:#1e4e4f; --md-sys-color-on-tertiary-container-rgb-dark:187,235,236; --md-sys-color-on-tertiary-container-dark:#bbebec; --md-sys-color-error-rgb-dark:255,180,171; --md-sys-color-error-dark:#ffb4ab; --md-sys-color-on-error-rgb-dark:105,0,5; --md-sys-color-on-error-dark:#690005; --md-sys-color-error-container-rgb-dark:147,0,10; --md-sys-color-error-container-dark:#93000a; --md-sys-color-on-error-container-rgb-dark:255,180,171; --md-sys-color-on-error-container-dark:#ffb4ab; --md-sys-color-background-rgb-dark:26,28,24; --md-sys-color-background-dark:#1a1c18; --md-sys-color-on-background-rgb-dark:227,227,220; --md-sys-color-on-background-dark:#e3e3dc; --md-sys-color-surface-rgb-dark:26,28,24; --md-sys-color-surface-dark:#1a1c18; --md-sys-color-on-surface-rgb-dark:227,227,220; --md-sys-color-on-surface-dark:#e3e3dc; --md-sys-color-surface-variant-rgb-dark:67,72,62; --md-sys-color-surface-variant-dark:#43483e; --md-sys-color-on-surface-variant-rgb-dark:195,200,187; --md-sys-color-on-surface-variant-dark:#c3c8bb; --md-sys-color-outline-rgb-dark:141,146,134; --md-sys-color-outline-dark:#8d9286; --md-sys-color-shadow-rgb-dark:0,0,0; --md-sys-color-shadow-dark:#000000; --md-sys-color-inverse-surface-rgb-dark:227,227,220; --md-sys-color-inverse-surface-dark:#e3e3dc; --md-sys-color-inverse-on-surface-rgb-dark:47,49,45; --md-sys-color-inverse-on-surface-dark:#2f312d; --md-sys-color-inverse-primary-rgb-dark:55,106,31; --md-sys-color-inverse-primary-dark:#376a1f; --md-sys-color-primary-rgb-light:55,106,31; --md-sys-color-primary-light:#376a1f; --md-sys-color-on-primary-rgb-light:255,255,255; --md-sys-color-on-primary-light:#ffffff; --md-sys-color-primary-container-rgb-light:183,243,150; --md-sys-color-primary-container-light:#b7f396; --md-sys-color-on-primary-container-rgb-light:7,33,0; --md-sys-color-on-primary-container-light:#072100; --md-sys-color-secondary-rgb-light:85,98,76; --md-sys-color-secondary-light:#55624c; --md-sys-color-on-secondary-rgb-light:255,255,255; --md-sys-color-on-secondary-light:#ffffff; --md-sys-color-secondary-container-rgb-light:216,231,203; --md-sys-color-secondary-container-light:#d8e7cb; --md-sys-color-on-secondary-container-rgb-light:19,31,13; --md-sys-color-on-secondary-container-light:#131f0d; --md-sys-color-tertiary-rgb-light:56,102,102; --md-sys-color-tertiary-light:#386666; --md-sys-color-on-tertiary-rgb-light:255,255,255; --md-sys-color-on-tertiary-light:#ffffff; --md-sys-color-tertiary-container-rgb-light:187,235,236; --md-sys-color-tertiary-container-light:#bbebec; --md-sys-color-on-tertiary-container-rgb-light:0,32,32; --md-sys-color-on-tertiary-container-light:#002020; --md-sys-color-error-rgb-light:186,26,26; --md-sys-color-error-light:#ba1a1a; --md-sys-color-on-error-rgb-light:255,255,255; --md-sys-color-on-error-light:#ffffff; --md-sys-color-error-container-rgb-light:255,218,214; --md-sys-color-error-container-light:#ffdad6; --md-sys-color-on-error-container-rgb-light:65,0,2; --md-sys-color-on-error-container-light:#410002; --md-sys-color-background-rgb-light:253,253,246; --md-sys-color-background-light:#fdfdf6; --md-sys-color-on-background-rgb-light:26,28,24; --md-sys-color-on-background-light:#1a1c18; --md-sys-color-surface-rgb-light:253,253,246; --md-sys-color-surface-light:#fdfdf6; --md-sys-color-on-surface-rgb-light:26,28,24; --md-sys-color-on-surface-light:#1a1c18; --md-sys-color-surface-variant-rgb-light:223,228,215; --md-sys-color-surface-variant-light:#dfe4d7; --md-sys-color-on-surface-variant-rgb-light:67,72,62; --md-sys-color-on-surface-variant-light:#43483e; --md-sys-color-outline-rgb-light:116,121,109; --md-sys-color-outline-light:#74796d; --md-sys-color-shadow-rgb-light:0,0,0; --md-sys-color-shadow-light:#000000; --md-sys-color-inverse-surface-rgb-light:47,49,45; --md-sys-color-inverse-surface-light:#2f312d; --md-sys-color-inverse-on-surface-rgb-light:241,241,234; --md-sys-color-inverse-on-surface-light:#f1f1ea; --md-sys-color-inverse-primary-rgb-light:156,214,125; --md-sys-color-inverse-primary-light:#9cd67d;
+
+  /* label - small */
+  --md-sys-typescale-label-small-font-family-name: Roboto;
+  --md-sys-typescale-label-small-font-weight: 500;
+  --md-sys-typescale-label-small-font-size: 11px;
+  --md-sys-typescale-label-small-letter-spacing: 0.5px;
+  --md-sys-typescale-label-small-line-height: 16px;
+  /* label - medium */
+  --md-sys-typescale-label-medium-font-family-name: Roboto;
+  --md-sys-typescale-label-medium-font-weight: 500;
+  --md-sys-typescale-label-medium-font-size: 12px;
+  --md-sys-typescale-label-medium-letter-spacing: 0.5px;
+  --md-sys-typescale-label-medium-line-height: 16px;
+  /* label - large */
+  --md-sys-typescale-label-large-font-family-name: Roboto;
+  --md-sys-typescale-label-large-font-weight: 500;
+  --md-sys-typescale-label-large-font-size: 14px;
+  --md-sys-typescale-label-large-letter-spacing: 0.1px;
+  --md-sys-typescale-label-large-line-height: 20px;
+  /* body - small */
+  --md-sys-typescale-body-small-font-family-name: Roboto;
+  --md-sys-typescale-body-small-font-weight: 400;
+  --md-sys-typescale-body-small-font-size: 12px;
+  --md-sys-typescale-body-small-letter-spacing: 0.4px;
+  --md-sys-typescale-body-small-line-height: 16px;
+  /* body - medium */
+  --md-sys-typescale-body-medium-font-family-name: Roboto;
+  --md-sys-typescale-body-medium-font-weight: 400;
+  --md-sys-typescale-body-medium-font-size: 14px;
+  --md-sys-typescale-body-medium-letter-spacing: 0.25px;
+  --md-sys-typescale-body-medium-line-height: 20px;
+  /* body - large */
+  --md-sys-typescale-body-large-font-family-name: Roboto;
+  --md-sys-typescale-body-large-font-weight: 400;
+  --md-sys-typescale-body-large-font-size: 16px;
+  --md-sys-typescale-body-large-letter-spacing: 0.5px;
+  --md-sys-typescale-body-large-line-height: 24px;
+  /* headline - small */
+  --md-sys-typescale-headline-small-font-family-name: Roboto;
+  --md-sys-typescale-headline-small-font-weight: 400;
+  --md-sys-typescale-headline-small-font-size: 24px;
+  --md-sys-typescale-headline-small-letter-spacing: 0px;
+  --md-sys-typescale-headline-small-line-height: 32px;
+  /* headline - medium */
+  --md-sys-typescale-headline-medium-font-family-name: Roboto;
+  --md-sys-typescale-headline-medium-font-weight: 400;
+  --md-sys-typescale-headline-medium-font-size: 28px;
+  --md-sys-typescale-headline-medium-letter-spacing: 0px;
+  --md-sys-typescale-headline-medium-line-height: 36px;
+  /* headline - large */
+  --md-sys-typescale-headline-large-font-family-name: Roboto;
+  --md-sys-typescale-headline-large-font-weight: 400;
+  --md-sys-typescale-headline-large-font-size: 32px;
+  --md-sys-typescale-headline-large-letter-spacing: 0px;
+  --md-sys-typescale-headline-large-line-height: 40px;
+  /* display - small */
+  --md-sys-typescale-display-small-font-family-name: Roboto;
+  --md-sys-typescale-display-small-font-weight: 400;
+  --md-sys-typescale-display-small-font-size: 36px;
+  --md-sys-typescale-display-small-letter-spacing: 0px;
+  --md-sys-typescale-display-small-line-height: 44px;
+  /* display - medium */
+  --md-sys-typescale-display-medium-font-family-name: Roboto;
+  --md-sys-typescale-display-medium-font-weight: 400;
+  --md-sys-typescale-display-medium-font-size: 45px;
+  --md-sys-typescale-display-medium-letter-spacing: 0px;
+  --md-sys-typescale-display-medium-line-height: 52px;
+  /* display - large */
+  --md-sys-typescale-display-large-font-family-name: Roboto;
+  --md-sys-typescale-display-large-font-weight: 400;
+  --md-sys-typescale-display-large-font-size: 57px;
+  --md-sys-typescale-display-large-letter-spacing: -0.25px;
+  --md-sys-typescale-display-large-line-height: 64px;
+  /* title - small */
+  --md-sys-typescale-title-small-font-family-name: Roboto;
+  --md-sys-typescale-title-small-font-weight: 500;
+  --md-sys-typescale-title-small-font-size: 14px;
+  --md-sys-typescale-title-small-letter-spacing: 0.1px;
+  --md-sys-typescale-title-small-line-height: 20px;
+  /* title - medium */
+  --md-sys-typescale-title-medium-font-family-name: Roboto;
+  --md-sys-typescale-title-medium-font-weight: 500;
+  --md-sys-typescale-title-medium-font-size: 16px;
+  --md-sys-typescale-title-medium-letter-spacing: 0.15px;
+  --md-sys-typescale-title-medium-line-height: 24px;
+  /* title - large */
+  --md-sys-typescale-title-large-font-family-name: Roboto;
+  --md-sys-typescale-title-large-font-weight: 400;
+  --md-sys-typescale-title-large-font-size: 22px;
+  --md-sys-typescale-title-large-letter-spacing: 0px;
+  --md-sys-typescale-title-large-line-height: 28px;
+}
