@@ -1,0 +1,7 @@
+# Node
+node_modules
+
+# Build
+src/**/*.js
+src/**/*.d.ts
+src/**/*.js.map
