@@ -9,7 +9,7 @@
     "dev": "wds --config 'demos/web-dev-server.config.mjs'",
     "build": "tsc --pretty",
     "build:watch": "tsc --pretty --watch",
-    "clean": "rm -f src/**/*.js src/**/*.js.map src/**/*.d.t src/**/**/*.js src/**/**/*.js.map src/**/**/*.d.ts"
+    "clean": "rm -f src/**/*.js src/**/*.js.map src/**/*.d.ts src/**/**/*.js src/**/**/*.js.map src/**/**/*.d.ts"
   },
   "keywords": [],
   "devDependencies": {
